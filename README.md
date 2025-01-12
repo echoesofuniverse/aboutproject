@@ -29,9 +29,13 @@ Follow these steps to make the most of MyWebsite:
 - We have integrated a detailed dropdown navigation system that allows users to seamlessly select options from continent-level (e.g., Asia) down to district-level locations.Upon reaching to district-level dropdown, we get other dropdown which shows sectors namely, Education,Healthcare,Farming,Manufacturing,Government,Software.Upon selecting Education sector,We see other dropdown with options Primary School,High School,Intermediate,Degree,Engineering,Medicine,When we  select High School,list of high Schools from selected city(Khammam) get displayed.Select School,and class(10th,9th,8th...) ,and  subject(BIOLOGY,COMPUTER,PHYSICS,MATHS,SOCIAL) and click on chapter,chapter gets displayed.
 - Upcoming Additions: Plans are underway to include chapters and content for other states across various educational institutions.
   <br>
+
+![Homepage Screenshot](assets/screenshots/continent-district.png)
+
 *Foods and Festivals Around the World*
 Select Continent,Country and Select Type(Festival,Food) and click on displayed image or word, you will get redirected to respective links.
-![Homepage Screenshot](assets/screenshots/continent-district.png)
+
+![Homepage Screenshot](assets/screenshots/type.png)
 
    
 
