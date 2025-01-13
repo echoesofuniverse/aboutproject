@@ -42,6 +42,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - Select a Bank from the options "Homework Bank","Syallabus Bank","Attendance Bank" and "Hostel Bank".After you select a bank,you can select a year(2024-2025,2023-2024 and so on),Class dropdown will be displayed when you select year dropdown.Once you select an option from class dropdown,section dropdown will get displayed.Based on the selection of the section,data related to students will get dispalyed in the Popup. 
 <br>
  Bank -> Year -> Class -> Section
+<br>
 ![Homepage Screenshot](assets/screenshots/banks.png)
 
 
