@@ -43,7 +43,10 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 <br>
  Bank -> Year -> Class -> Section
 <br>
+
 ![Homepage Screenshot](assets/screenshots/banks.png)
+![Homepage Screenshot](assets/screenshots/banks.png)
+
 
 
    
