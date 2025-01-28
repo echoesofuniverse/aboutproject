@@ -47,6 +47,14 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 ![Homepage Screenshot](assets/screenshots/banks.png)
 
+****HealthCare Universe****
+- Click on Medical Encyclopedia dice.
+- We have 6 faces and Each face contains a image related to Healthcare and If someone clicks dice 6 times,6 different options will be displayed.
+  <br>
+  ![Homepage Screenshot](assets/screenshots/Medical dice.png)
+  <br>
+  
+
 
 
    
