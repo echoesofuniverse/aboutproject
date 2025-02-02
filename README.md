@@ -37,6 +37,11 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 ![Homepage Screenshot](assets/screenshots/type.png)
 <br>
+
+* Click on the Image to Learn more about AIC('Academic Industrial Complex')
+
+  ![Homepage Screenshot](assets/screenshots/aic.png)
+<br>
 ****MySchool Calendar & Banks****
 - We can see a calendar pointing to today's date
 - Select a Bank from the options "Homework Bank","Syallabus Bank","Attendance Bank" and "Hostel Bank".After you select a bank,you can select a year(2024-2025,2023-2024 and so on),Class dropdown will be displayed when you select year dropdown.Once you select an option from class dropdown,section dropdown will get displayed.Based on the selection of the section,data related to students will get dispalyed in the Popup. 
