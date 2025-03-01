@@ -67,7 +67,10 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - Click on Create Blog,If you see "WORKING ON THE SITE! GO BACK HOME",please login first.You need to register to login.For registartion click "http://echoesofuniverse.com/djangoapplication/register/".Login can be done by "http://echoesofuniverse.com/djangoapplication/login/".After registartion and login are completed,then click on create blog dropdown.It can be accessed now.You can create a blog and save it.Click on Back to Blog list to view your blog.
   
 <br>
+
   ![Homepage Screenshot](assets/screenshots/create_blog.png) 
+  
+  <br>
 
 
 
