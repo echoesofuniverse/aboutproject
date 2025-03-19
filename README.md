@@ -79,7 +79,6 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
   ****MySchool & MyServices****
 - In topbar,there is a button named MySchool & MyServices,when you click,you can see 2 dropdowns,"Annual day Presentation" and "SOLOLEARN WORKS BY STUDENTS".Select SOLOLEARN WORKS BY STUDENTS to view pages created by SJHS students.Select Annual day Presentation to know more about Cyberworld Program.
-- 
 <br>
 
   ![Homepage Screenshot](assets/screenshots/MySchoolServices.png) 
