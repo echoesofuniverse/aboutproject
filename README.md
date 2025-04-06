@@ -87,6 +87,9 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 
 ****TEMPLATE****
+
+-   ![Homepage Screenshot](assets/screenshots/templatemenu.png) 
+
 - We have added "MyTemplates" Menu in Topbar,Under MyTemplate, there are 3 choices "Template for Basic HTML Structure","Template to create Galleries","Template to generate code for Multiple Uploaded Images with Text".
 
 -   ![Homepage Screenshot](assets/screenshots/templateforgallery.png) 
