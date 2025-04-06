@@ -86,6 +86,19 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   <br>
 
 
+****TEMPLATE****
+- We have added "MyTemplates" Menu in Topbar,Under MyTemplate, there are 3 choices "Template for Basic HTML Structure","Template to create Galleries","Template to generate code for Multiple Uploaded Images with Text".
+
+-   ![Homepage Screenshot](assets/screenshots/templateforgallery.png) 
+- This is the Template to create Gallery.
+- Instead of giving color codes in CSS for BACKGROUND COLOR,HEADING COLOR ,ITEM HEADING COLOR,DESCRIPTION COLOR, we can click on the lines and directly change the color,we can also create new gallery or use existing gallery with the help of "SELECT GALLERY" field,Incase if you click on "Create new Gallery" ,Enter "NEW GALLERY NAME".In ITEM DESCRIPTION field,paste the text and Upload the image with the help of "UPLOAD IMAGE" field.Click on GENERATE AND PREVIEW,HTML code is created and we can Preview the changes.
+- This Template saves a lot of time as we are not writing the code of CSS,HTML.We are just adjusting the colors with the help of this template and getting the code.
+- You can copy and Paste the code in your Project.
+
+
+
+
+
    
 
    
