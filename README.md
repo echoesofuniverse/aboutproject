@@ -98,10 +98,15 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - This Template saves a lot of time as we are not writing the code of CSS,HTML.We are just adjusting the colors with the help of this template and getting the code.
 - You can copy and Paste the code in your Project.
 
+-If you need Multiple Images in your HTML code,You can choose "Template to generate code for Multiple Uploaded Images with Text" from "MyTemplates".As this selection helps you a Web pages wich has fields such as "TITLE","UPLOAD IMAGE 1",DESCRIPTION 1","ADD ANOTHER IMAGE".After uploading one image,if you want to add more images ,you can click "ADD ANOTHER IMAGE",which shows "UPLOAD IMAGE N", "DESCRIPTION N".With this you can add "N number of Images" in your code.
+
+- Click "Generate HTML" which shows you the code.Preview is also available along with the generated HTML code.
 
 
 
+- If you want to Tables,lists in your code,You can choose "Template for Basic HTML Structire" from "MyTemplates".Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
 
+   
    
 
    
