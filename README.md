@@ -139,7 +139,7 @@ This will be stored in Server.folder_name/Country/State/Subject/PageTitle.
 
 Eg: http://echoesofuniverse.com/djangoapplication/syllabusuploadpages/syllabus/INDIA/TELANGANA/Physics/chapter-1/ 
 
-NOTE:Use Capital Letters for Country,State,City for More clarity or for anyfield.It helps to reduce confusion.
+NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It helps to reduce confusion.
 
 
 
