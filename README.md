@@ -1,7 +1,7 @@
 # aboutechoesofuniverse
 # Welcome to Echoes of Website Created By Madhu Rayala and Echoes Team
 ## What is this Website About?
-This Webiste is created to start a global transformation in the Academic World.This Webiste helps many Students access various resources related to their Syllabus,Homework Banks,Recordings of their Subjects.Along with this,they can access information related to Various Categories,Agriculture,Aerospace,Manufacturing,Finance,Food,Pharmacy,Law etc.
+This Website is created to start a global transformation in the Academic World.This Webiste helps many Students access various resources related to their Syllabus,Homework Banks,Recordings of their Subjects.Along with this,they can access information related to Various Categories,Agriculture,Aerospace,Manufacturing,Finance,Food,Pharmacy,Law etc.
 
 <br>
 
