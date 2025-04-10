@@ -137,6 +137,8 @@ Click on Upload,It will Naviagte to Success Page,If you want to upload more Page
 
 This will be stored in Server.folder_name/Country/State/Subject/PageTitle.
 
+Eg: http://echoesofuniverse.com/djangoapplication/syllabusuploadpages/syllabus/INDIA/TELANGANA/Physics/chapter-1/ 
+
 
 
    
