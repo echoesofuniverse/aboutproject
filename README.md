@@ -154,7 +154,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 <br>
   * If you want to sell something on our Echoes of Universe Online Store,please click http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name.After fllling all the details,click Upload Product.These products will be shown in Home page of our Echoes Online Store.
     
-    * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
+ * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
        
  * Search functionality is also available in Home page of Echoes of Universe Online Store.
 
