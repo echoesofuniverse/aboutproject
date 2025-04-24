@@ -141,6 +141,44 @@ Eg: http://echoesofuniverse.com/djangoapplication/syllabusuploadpages/syllabus/I
 
 NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It helps to reduce confusion.
 
+**** PUBLIC COLLECTIONS AND MYCOLLECTIONS****
+* Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/).You can access Collections which are made public by Users.
+* To make your collection public,you need to follow the below steps:
+  - step 1: Register and login to our website if you haven't done before.
+  - step 2:
+    <br>
+             ![Homepage Screenshot](assets/screenshots/AcademicUniverse.png)
+    <br>
+    After logging in,click MyCollections(Refer above image).Click "Create a Collection".You can see fields such as "Name,Is public".You can specify Name of the collection and If you want to show your collection to world,you can use the field "Is public" field.You can check mark the field 'Is public",so that the collection you made will be accessible to outside world.Click "Create Collection".
+    Eg: Name : English Collection, Is public [check] - click Create Collection.
+- step 3:
+  You can check all the collections you created by clicking "Back to MyCollections".
+- step 4: You can click on created collection and click on "Add word",We can add many words and their meanings,synonyms etc.You need to fill 2 fields  Term and Data : 
+EG: Term: ubiquitous
+   Data :
+  {
+    "Meaning": "Present, appearing, or found everywhere.",
+    "Type": "adjective",
+    "Synonyms": ["pervasive", "prevalent", "universal"],
+    "Example Sentence": "Smartphones have become ubiquitous in modern society."
+
+} 
+
+Data need to filled in Json format.We can make modifications further for HTML template for  data field.
+
+step 5: Add the word and You can see all this data in a table format. I have created "English Collection".
+
+<br>
+             ![Homepage Screenshot](assets/screenshots/englishcollection.png)
+
+<br>
+You can create "Science Collection","Social Collection".
+Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
+
+
+    
+
+
 
 
    
@@ -152,11 +190,13 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
     <br>
          ![Homepage Screenshot](assets/screenshots/Ehome.png) 
 <br>
-  * If you want to sell something on our Echoes of Universe Online Store,please click http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name.After fllling all the details,click Upload Product.These products will be shown in Home page of our Echoes Online Store.
+  * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
     
  * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
        
  * Search functionality is also available in Home page of Echoes of Universe Online Store.
+
+
 
 
    
