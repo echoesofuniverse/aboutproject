@@ -170,6 +170,7 @@ Data need to filled in Json format.We can make modifications further for HTML te
 step 5: Add the word and You can see all this data in a table format. I have created "English Collection".
 
 <br>
+
                           ![Homepage Screenshot](assets/screenshots/englishcollection.png)
 
 
