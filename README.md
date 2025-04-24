@@ -142,7 +142,7 @@ Eg: http://echoesofuniverse.com/djangoapplication/syllabusuploadpages/syllabus/I
 NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It helps to reduce confusion.
 
 **** PUBLIC COLLECTIONS AND MYCOLLECTIONS****
-* Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/).You can access Collections which are made public by Users.
+* Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/). You can access Collections which are made public by Users.
 * To make your collection public,you need to follow the below steps:
   - step 1: Register and login to our website if you haven't done before.
   - step 2:
