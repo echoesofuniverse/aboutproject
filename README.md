@@ -178,15 +178,7 @@ step 5: Add the word and You can see all this data in a table format. I have cre
  step 6:
  You can create "Science Collection","Social Collection".
 Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
-
-
-    
-
-
-
-
-
-
+<br>
    
    *****ECHOES OF UNIVERSE ONLINE STORE :*****
 
