@@ -171,7 +171,7 @@ step 5: Add the word and You can see all this data in a table format. I have cre
 
 <br>
 
-                          ![Homepage Screenshot](assets/screenshots/englishcollection.png)
+  ![Homepage Screenshot](assets/screenshots/englishcollection.png)
 
 
 <br>
