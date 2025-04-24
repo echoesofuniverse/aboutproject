@@ -156,6 +156,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 - step 4: You can click on created collection and click on "Add word",We can add many words and their meanings,synonyms etc.You need to fill 2 fields  Term and Data : 
 EG: Term: ubiquitous
    Data :
+  <br>
   {
     "Meaning": "Present, appearing, or found everywhere.",
     "Type": "adjective",
