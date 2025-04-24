@@ -175,7 +175,8 @@ step 5: Add the word and You can see all this data in a table format. I have cre
 
 
 <br>
-You can create "Science Collection","Social Collection".
+ step 6:
+ You can create "Science Collection","Social Collection".
 Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
 
 
@@ -184,8 +185,10 @@ Intially this process can be used by Teachers as they can add new words everyday
 
 
 
+
+
    
-  **** Echoes of Universe Online Store : *****
+  **** ECHOES OF UNIVERSE ONLINE STORE : *****
 
   * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
   * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
