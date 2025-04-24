@@ -188,7 +188,7 @@ Intially this process can be used by Teachers as they can add new words everyday
 
 
    
-  **** ECHOES OF UNIVERSE ONLINE STORE : *****
+  **** ECHOES OF UNIVERSE ONLINE STORE : ****
 
   * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
   * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
