@@ -170,7 +170,8 @@ Data need to filled in Json format.We can make modifications further for HTML te
 step 5: Add the word and You can see all this data in a table format. I have created "English Collection".
 
 <br>
-             ![Homepage Screenshot](assets/screenshots/englishcollection.png)
+                          ![Homepage Screenshot](assets/screenshots/englishcollection.png)
+
 
 <br>
 You can create "Science Collection","Social Collection".
@@ -189,7 +190,9 @@ Intially this process can be used by Teachers as they can add new words everyday
   * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
   * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
     <br>
-         ![Homepage Screenshot](assets/screenshots/Ehome.png) 
+         ![Homepage Screenshot](assets/screenshots/Ehome.png)
+
+    
 <br>
   * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
     
