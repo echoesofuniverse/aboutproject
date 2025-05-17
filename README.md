@@ -263,4 +263,15 @@ Intially this process can be used by Teachers as they can add new words everyday
 
 <br>
 
+- Submit the quiz after attempting all the questions.
+
+  <br>
+  
+  ![Homepage Screenshot](assets/screenshots/quizresult.png)
+
+
+  <br>
+
+  - You can view the score for your attempted quiz.
+
 
