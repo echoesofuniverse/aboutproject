@@ -215,8 +215,12 @@ step 5: Add the word and You can see all this data in a table format. I have cre
 Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
 
 <br>
+
   ![Homepage Screenshot](assets/screenshots/AcademicUniverse.png)
+
+
 <br>
+
 * Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/). You can access Collections which are made public by Users.
 
 
