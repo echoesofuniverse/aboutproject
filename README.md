@@ -227,4 +227,40 @@ Intially this process can be used by Teachers as they can add new words everyday
 <br>
 <br>
 <br>
+
+***Create Quiz***
+- Click on Create Quiz.Fields such as Quiz title and Quiz description will be shown.
+
+  <br>
+
+     ![Homepage Screenshot](assets/screenshots/createquiz.png)
+
+  <br>
+
+  - After clicking on Create Quiz,Page will be navigated to View Quizzes page.Based on the Quiz you Create,{test quiz} - Add question options will be shown.Based on the Quiz name,the words in the curly braces will be changed.
+  - Click on {test quiz} - Add question
+ 
+    <br>
+
+    ![Homepage Screenshot](assets/screenshots/addquestion.png)
+
+    <br>
+
+    - To create a question,fill the below form in the similar way based on your requirements.
    
+      <br>
+
+    ![Homepage Screenshot](assets/screenshots/createoption.png)
+
+    <br>
+ - Based on the quiz you have choosen,the created question wil be reflected on the respective quiz.
+
+-Attempt the quiz,by clicking on "Take Quiz"
+
+<br>
+
+  ![Homepage Screenshot](assets/screenshots/testquiz.png)
+
+<br>
+
+
