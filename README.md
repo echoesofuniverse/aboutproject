@@ -141,15 +141,46 @@ Eg: http://echoesofuniverse.com/djangoapplication/syllabusuploadpages/syllabus/I
 
 NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It helps to reduce confusion.
 
+
+   
+   *****ECHOES OF UNIVERSE ONLINE STORE :*****
+
+  * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
+  * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
+  * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
+    <br>
+         ![Homepage Screenshot](assets/screenshots/Ehome.png)
+
+    
+<br>
+  * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
+    
+ * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
+       
+ * Search functionality is also available in Home page of Echoes of Universe Online Store.
+
+<br>
+<br><br>
+<br>
+<br>
+<br>
+
+*****LOGIN TO OUR WEBSITE TO WORK WITH BELOW FEATURES:*****
+* After logging in you can see the home page of the application along with the topbar with options such as "Create Blog","Create Collection","Create Quiz","View Quiz","Create Announcement".
+* Click on "Create Blog",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.
+<br>
+  ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
+<br>
+* Click on Create collection
+
 *****PUBLIC COLLECTIONS AND MYCOLLECTIONS*****
-* Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/). You can access Collections which are made public by Users.
 * To make your collection public,you need to follow the below steps:
   - step 1: Register and login to our website if you haven't done before.
   - step 2:
     <br>
              ![Homepage Screenshot](assets/screenshots/AcademicUniverse.png)
     <br>
-    After logging in,click MyCollections(Refer above image).Click "Create a Collection".You can see fields such as "Name,Is public".You can specify Name of the collection and If you want to show your collection to world,you can use the field "Is public" field.You can check mark the field 'Is public",so that the collection you made will be accessible to outside world.Click "Create Collection".
+    After logging in,click "Create a Collection".You can see fields such as "Name,Is public".You can specify Name of the collection and If you want to show your collection to world,you can use the field "Is public" field.You can check mark the field 'Is public",so that the collection you made will be accessible to outside world.Click "Create Collection".
     Eg: Name : English Collection, Is public [check] - click Create Collection.
 - step 3:
   You can check all the collections you created by clicking "Back to MyCollections".
@@ -179,29 +210,10 @@ step 5: Add the word and You can see all this data in a table format. I have cre
  You can create "Science Collection","Social Collection".
 Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
 
+* Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/). You can access Collections which are made public by Users.
 
 
 <br>
 <br>
 <br>
-   
-   *****ECHOES OF UNIVERSE ONLINE STORE :*****
-
-  * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
-  * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
-  * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
-    <br>
-         ![Homepage Screenshot](assets/screenshots/Ehome.png)
-
-    
-<br>
-  * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
-    
- * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
-       
- * Search functionality is also available in Home page of Echoes of Universe Online Store.
-
-
-
-
    
