@@ -52,6 +52,19 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 ![Homepage Screenshot](assets/screenshots/banks.png)
 
+****New Update on MySchool Calendar & Banks****:
+- We have Enrollment forms for Students,Staff and Alumni.
+
+  <br>
+
+![Homepage Screenshot](assets/screenshots/enrollmentforms.png)
+
+  <br>
+
+
+- Click on Student Enrollment form.Student Enrollment Form consists of fields such as "First Name","Middle Name","Last Name","Father Name","Mother Name","Parent Occupation","Address","Phone number","Email","Roll Number","Class Name","Year".After filling all the fields click on Submit.The submitted data can be viewed in Student List.
+- Click on Staff Enrollment Form.Staff Enrollment Form consists of fields such as "Staff name","Staff id","Department","Job title".Click on submit after filling all the fields,The submitted data can be viewed in Staff List.
+- Click on Alumni Enrollment Form.Alumni Enrollment form consists of fields such as "First Name","Last Name","Email","Graduation Year","Decade".Click on submit after filling the fields.Click on Alumni List to view all the alumni's of our school.
 ****HealthCare Universe****
 - Click on Medical Encyclopedia dice.
 - We have 6 faces and Each face contains a image related to Healthcare and If someone clicks dice 6 times,6 different list of options will be displayed.Click the option in the list and information related to that option will be displayed. 
