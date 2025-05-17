@@ -174,7 +174,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
   
   <br>
 
-     ![Homepage Screenshot](assets/screenshots/createblog.png)
+  ![Homepage Screenshot](assets/screenshots/createblog.png)
 
   
 <br>
