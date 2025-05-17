@@ -238,6 +238,12 @@ Intially this process can be used by Teachers as they can add new words everyday
   <br>
 
   - After clicking on Create Quiz,Page will be navigated to View Quizzes page.Based on the Quiz you Create,{test quiz} - Add question options will be shown.Based on the Quiz name,the words in the curly braces will be changed.
+ 
+    <br> 
+    
+    ![Homepage Screenshot](assets/screenshots/listofquizzes.png)
+
+    <br>
   - Click on {test quiz} - Add question
  
     <br>
