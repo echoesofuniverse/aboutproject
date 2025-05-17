@@ -284,6 +284,5 @@ Intially this process can be used by Teachers as they can add new words everyday
  - Click on Create Announcement.Fill the fields such as "Title" and "Content". Click on Post Announcement.
  - The Announcements which are created by users can be viewed in Academic Universe card .
  - Navigate to Academic Universe Card and Click Announcements List.List of Announcements which are created till now can be viewed.
- - 
 
 
