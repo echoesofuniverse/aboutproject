@@ -169,7 +169,9 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 * After logging in you can see the home page of the application along with the topbar with options such as "Create Blog","Create Collection","Create Quiz","View Quiz","Create Announcement".
 * Click on "Create Blog",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.
 <br>
-  ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
+
+   ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
+  
 <br>
 * Click on Create collection
 
