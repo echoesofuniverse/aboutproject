@@ -61,7 +61,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
   
 ****Echoes Vision****
-- In Topbar,there is a button named Echoes Vision click it,You can see list of options called "Echoes Vision,Create Blog and View Blog.
+- In Topbar,there is a button named Echoes Vision click it,You can see list of options called "Echoes Vision and View Blog.
   <br>
     ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
 
@@ -69,13 +69,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   
 - Click on Echoes Vision in the dropdown,you can view the Vision statement.
 - Click on View Blog to know the latest updates of our website.
-- Click on Create Blog,If you see "WORKING ON THE SITE! GO BACK HOME",please login first.You need to register to login.For registartion click "http://echoesofuniverse.com/djangoapplication/register/". Login can be done by "http://echoesofuniverse.com/djangoapplication/login/". After registartion and login are completed,then click on create blog dropdown.It can be accessed now.You can create a blog and save it.Click on Back to Blog list to view your blog.
-  
-<br>
 
-  ![Homepage Screenshot](assets/screenshots/create_blog.png) 
-  
-  <br>
 
   ****MySchool & MyServices****
 - In topbar,there is a button named MySchool & MyServices,when you click,you can see 2 dropdowns,"Annual day Presentation" and "SOLOLEARN WORKS BY STUDENTS".Select SOLOLEARN WORKS BY STUDENTS to view pages created by SJHS students.Select Annual day Presentation to know more about Cyberworld Program.
