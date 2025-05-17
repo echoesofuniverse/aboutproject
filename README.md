@@ -184,9 +184,6 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 * To make your collection public,you need to follow the below steps:
   - step 1: Register and login to our website if you haven't done before.
   - step 2:
-    <br>
-             ![Homepage Screenshot](assets/screenshots/AcademicUniverse.png)
-    <br>
     After logging in,click "Create a Collection".You can see fields such as "Name,Is public".You can specify Name of the collection and If you want to show your collection to world,you can use the field "Is public" field.You can check mark the field 'Is public",so that the collection you made will be accessible to outside world.Click "Create Collection".
     Eg: Name : English Collection, Is public [check] - click Create Collection.
 - step 3:
@@ -217,6 +214,9 @@ step 5: Add the word and You can see all this data in a table format. I have cre
  You can create "Science Collection","Social Collection".
 Intially this process can be used by Teachers as they can add new words everyday and create collections related to their subject.Later on this process can be explained to students to maintain their own collection and they can use it as their own dictionary.
 
+<br>
+  ![Homepage Screenshot](assets/screenshots/AcademicUniverse.png)
+<br>
 * Click Public Collection (Public collections can be accessed by https://echoesofuniverse.com/djangoapplication/wordcollection/public/collections/). You can access Collections which are made public by Users.
 
 
