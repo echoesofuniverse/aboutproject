@@ -167,7 +167,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 
 *****LOGIN TO OUR WEBSITE TO WORK WITH BELOW FEATURES:*****
 * After logging in you can see the home page of the application along with the topbar with options such as "Create Blog","Create Collection","Create Quiz","View Quiz","Create Announcement".
-* Click on "Create Blog",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.
+* Click on "CREATE BLOG",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.
 <br>
 
    ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
@@ -279,5 +279,11 @@ Intially this process can be used by Teachers as they can add new words everyday
   <br>
 
   - You can view the score for your attempted quiz.
+ 
+ **** CREATE ANNOUNCEMENT ****
+ - Click on Create Announcement.Fill the fields such as "Title" and "Content". Click on Post Announcement.
+ - The Announcements which are created by users can be viewed in Academic Universe card .
+ - Navigate to Academic Universe Card and Click Announcements List.List of Announcements which are created till now can be viewed.
+ - 
 
 
