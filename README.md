@@ -293,3 +293,9 @@ Intially this process can be used by Teachers as they can add new words everyday
  - Navigate to Academic Universe Card and Click Announcements List.List of Announcements which are created till now can be viewed.
 
 
+****FOOD CHAIN UNIVERSE****
+- Navigate to Food Chain Universe.You will see images aligned in Traingle shape.
+- Click Image and options will be displayed.After selecting the option,respective page related to that option will be displayed.
+- These webpages are created by SJHS school,khammam,Telangana Students.
+- Also View SJHS creative World,You can view more pages created by students.
+
