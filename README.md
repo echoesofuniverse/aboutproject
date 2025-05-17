@@ -299,3 +299,5 @@ Intially this process can be used by Teachers as they can add new words everyday
 - These webpages are created by SJHS school,khammam,Telangana Students.
 - Also View SJHS creative World,You can view more pages created by students.
 
+
+Note: If you want to see our Home page of our Echoes of Website in different language.You can select language from the dropdown which is placed on the upper rightmost corner.
