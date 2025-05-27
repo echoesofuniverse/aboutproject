@@ -15,7 +15,7 @@ This Website is created to start a global transformation in the Academic World.T
 <br>
 ****EchoesofUniverse Online Store****
 <br>
-![Homepage Screenshot](assets/screenshots/EchoesEcommerce.mp4)
+![[Homepage Screenshot](https://youtu.be/oSZc726um-w)
 <br>
 ****MicroUniversity****
 <br>
