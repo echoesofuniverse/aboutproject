@@ -7,32 +7,44 @@ This Website is created to start a global transformation in the Academic World.T
     
 ****First Card - MySchoolProjects****
 <br>
-![Homepage Screenshot](assets/screenshots/MyschoolProjects.mp4) 
+
+[![Watch the video](https://img.youtube.com/vi/aDZONqFzr1g/0.jpg)](https://www.youtube.com/shorts/aDZONqFzr1g)
+
+
 <br>
 ****Second Card - CyberWorldProgramResources****
 <br>
-![Homepage Screenshot](assets/screenshots/CyberworldProgramResources.mp4)
+
+[![Watch the video](https://img.youtube.com/vi/gUf2znQ9cXk/0.jpg)](https://www.youtube.com/shorts/gUf2znQ9cXk) 
+
 <br>
 ****EchoesofUniverse Online Store****
 <br>
-[![Watch the video](https://img.youtube.com/vi/oSZc726um-w/0.jpg)](https://www.youtube.com/watch?v=oSZc726um-w)
+
+[![Watch the video](https://img.youtube.com/vi/oSZc726um-w/0.jpg)](https://www.youtube.com/watch?v=oSZc726um-w) 
 
 <br>
 ****MicroUniversity****
-<br>
-![Homepage Screenshot](assets/screenshots/MicroUniversity.mp4)
+
+ [![Watch the video](https://img.youtube.com/vi/2ETf837fxeQ/0.jpg)](https://www.youtube.com/shorts/2ETf837fxeQ)
+
 <br>
 ****Create Blog and View Blogs****
 <br>
-![Homepage Screenshot](assets/screenshots/CreateBlog.mp4)
+
+[![Watch the video](https://img.youtube.com/vi/w5KIB_uFCK0/0.jpg)](https://www.youtube.com/watch?v=w5KIB_uFCK0)
+
 <br>
 ****Create Quiz and View Quiz****
 <br>
-![Homepage Screenshot](assets/screenshots/CreateQuiz.mp4)
-<br>
+
+[![Watch the video](https://img.youtube.com/vi/A8wKB2mfX50/0.jpg)](https://www.youtube.com/watch?v=A8wKB2mfX50) 
+
 ****Create Announcement****
 <br>
-![Homepage Screenshot](assets/screenshots/CreateAnnouncement.mp4)
+[![Watch the video](https://img.youtube.com/vi/3qYzsQY52cA/0.jpg)](https://www.youtube.com/watch?v=3qYzsQY52cA) 
+
+
 <br>
 
 
