@@ -4,6 +4,37 @@
 This Website is created to start a global transformation in the Academic World.This Webiste helps many Students access various resources related to their Syllabus,Homework Banks,Recordings of their Subjects.Along with this,they can access information related to Various Categories,Agriculture,Aerospace,Manufacturing,Finance,Food,Pharmacy,Law etc.
 
 <br>
+    
+****First Card - MySchoolProjects****
+<br>
+![Homepage Screenshot](assets/screenshots/MyschoolProjects.mp4) 
+<br>
+****Second Card - CyberWorldProgramResources****
+<br>
+![Homepage Screenshot](assets/screenshots/CyberworldProgramResources.mp4)
+<br>
+****EchoesofUniverse Online Store****
+<br>
+![Homepage Screenshot](assets/screenshots/EchoesEcommerce.mp4)
+<br>
+****MicroUniversity****
+<br>
+![Homepage Screenshot](assets/screenshots/MicroUniversity.mp4)
+<br>
+****Create Blog and View Blogs****
+<br>
+![Homepage Screenshot](assets/screenshots/CreateBlog.mp4)
+<br>
+****Create Quiz and View Quiz****
+<br>
+![Homepage Screenshot](assets/screenshots/CreateQuiz.mp4)
+<br>
+****Create Announcement****
+<br>
+![Homepage Screenshot](assets/screenshots/CreateAnnouncement.mp4)
+<br>
+
+
 
 ## How to Get Started (For Beginners)  
 Follow these steps to make the most of MyWebsite:
