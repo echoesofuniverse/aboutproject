@@ -26,12 +26,14 @@ This Website is created to start a global transformation in the Academic World.T
 
 
 <br>
+
 ****Create Blog and View Blogs****  -  https://www.youtube.com/watch?v=w5KIB_uFCK0  
 
 
 
 <br>
-****Create Quiz and View Quiz****  - https://www.youtube.com/watch?v=A8wKB2mfX50 
+
+****Create Quiz and View Quiz****   - https://www.youtube.com/watch?v=A8wKB2mfX50 
 <br>
 
 
