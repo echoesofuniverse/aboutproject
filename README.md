@@ -10,44 +10,35 @@ This Website is created to start a global transformation in the Academic World.T
 ****First Card - MySchoolProjects****   -  https://www.youtube.com/shorts/aDZONqFzr1g 
 <br>
 
-[![Watch the video](https://img.youtube.com/vi/aDZONqFzr1g/0.jpg)](https://www.youtube.com/shorts/aDZONqFzr1g)
+
+
+****Second Card - CyberWorldProgramResources****  - https://www.youtube.com/shorts/gUf2znQ9cXk 
+<br>
+
+
+
+****EchoesofUniverse Online Store****  - https://www.youtube.com/watch?v=oSZc726um-w 
+<br>
+
+
+
+****MicroUniversity****   -  https://www.youtube.com/shorts/2ETf837fxeQ 
 
 
 <br>
-****Second Card - CyberWorldProgramResources****
-<br>
+****Create Blog and View Blogs****  -  https://www.youtube.com/watch?v=w5KIB_uFCK0  
 
-[![Watch the video](https://img.youtube.com/vi/gUf2znQ9cXk/0.jpg)](https://www.youtube.com/shorts/gUf2znQ9cXk) 
-
-<br>
-****EchoesofUniverse Online Store****
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/oSZc726um-w/0.jpg)](https://www.youtube.com/watch?v=oSZc726um-w) 
-
-<br>
-****MicroUniversity****
-
- [![Watch the video](https://img.youtube.com/vi/2ETf837fxeQ/0.jpg)](https://www.youtube.com/shorts/2ETf837fxeQ)
-
-<br>
-****Create Blog and View Blogs****
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/w5KIB_uFCK0/0.jpg)](https://www.youtube.com/watch?v=w5KIB_uFCK0)
-
-<br>
-****Create Quiz and View Quiz****
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/A8wKB2mfX50/0.jpg)](https://www.youtube.com/watch?v=A8wKB2mfX50) 
-
-****Create Announcement****
-<br>
-[![Watch the video](https://img.youtube.com/vi/3qYzsQY52cA/0.jpg)](https://www.youtube.com/watch?v=3qYzsQY52cA) 
 
 
 <br>
+****Create Quiz and View Quiz****  - https://www.youtube.com/watch?v=A8wKB2mfX50 
+<br>
+
+
+****Create Announcement****   - https://www.youtube.com/watch?v=3qYzsQY52cA 
+<br>
+
+
 
 
 
