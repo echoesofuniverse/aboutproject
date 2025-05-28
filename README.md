@@ -7,7 +7,7 @@ This Website is created to start a global transformation in the Academic World.T
 
 ********SCREEN RECORDINGS********
     
-****First Card - MySchoolProjects****
+****First Card - MySchoolProjects****   -  https://www.youtube.com/shorts/aDZONqFzr1g 
 <br>
 
 [![Watch the video](https://img.youtube.com/vi/aDZONqFzr1g/0.jpg)](https://www.youtube.com/shorts/aDZONqFzr1g)
