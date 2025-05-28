@@ -23,18 +23,18 @@ This Website is created to start a global transformation in the Academic World.T
 
 
 ****MicroUniversity****   -  https://www.youtube.com/shorts/2ETf837fxeQ 
-
-
 <br>
+
+
 
 ****Create Blog and View Blogs****  -  https://www.youtube.com/watch?v=w5KIB_uFCK0  
-
-
-
 <br>
+
+
 
 ****Create Quiz and View Quiz****   - https://www.youtube.com/watch?v=A8wKB2mfX50 
 <br>
+
 
 
 ****Create Announcement****   - https://www.youtube.com/watch?v=3qYzsQY52cA 
