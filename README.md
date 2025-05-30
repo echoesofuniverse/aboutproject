@@ -7,7 +7,7 @@ This Website is created to start a global transformation in the Academic World.T
 
 ********SCREEN RECORDINGS********
     
-****First Card - MySchoolProjects****   -  https://www.youtube.com/shorts/aDZONqFzr1g 
+****First Card - MySchoolProjects****   -  https://youtube.com/shorts/aDZONqFzr1g?feature=share
 <br>
 
 
@@ -17,22 +17,22 @@ This Website is created to start a global transformation in the Academic World.T
 
 
 
-****EchoesofUniverse Online Store****  - https://www.youtube.com/watch?v=oSZc726um-w 
+****EchoesofUniverse Online Store****  - https://youtu.be/DU3tKlP_wiw
 <br>
 
 
 
-****MicroUniversity****   -  https://www.youtube.com/shorts/2ETf837fxeQ 
+****MicroUniversity****   - https://youtube.com/shorts/2ETf837fxeQ?feature=share 
 <br>
 
 
 
-****Create Blog and View Blogs****  -  https://www.youtube.com/watch?v=w5KIB_uFCK0  
+****Create Blog and View Blogs****  -  https://youtu.be/w5KIB_uFCK0
 <br>
 
 
 
-****Create Quiz and View Quiz****   - https://www.youtube.com/watch?v=A8wKB2mfX50 
+****Create Quiz and View Quiz****   -https://youtu.be/A8wKB2mfX50 
 <br>
 
 
