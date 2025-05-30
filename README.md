@@ -12,7 +12,7 @@ This Website is created to start a global transformation in the Academic World.T
 
 
 
-****Second Card - CyberWorldProgramResources****  - https://www.youtube.com/shorts/gUf2znQ9cXk 
+****Second Card - CyberWorldProgramResources****  - https://youtube.com/shorts/gUf2znQ9cXk?feature=share
 <br>
 
 
