@@ -170,9 +170,8 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   <br>
    ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
   <br>
-
-   *Echoes Vision*: Explore to know more about Vision Statement.
-   *View Blogs*: Read our Blogs.
+   *Echoes Vision*: Explore to know more about Vision Statement. <br>
+   *View Blogs*: Read our Blogs. <br>
 
 
   ****MySchool & MyServices****
