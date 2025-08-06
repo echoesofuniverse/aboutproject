@@ -150,7 +150,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   <br>
 
 ****SJHS Creative World****
-- The Octahedron has 8 faces, each representing a unique theme. Within each face, multiple options are available individually. This interactive card is dedicated to the SJSHS team, and showcases webpages created by the students.
+- The Octahedron has 8 faces, each representing a unique theme. Within each face, multiple options are available individually. This interactive card is dedicated to the SJHS team, and showcases webpages created by the students.
 <br>
 
 
