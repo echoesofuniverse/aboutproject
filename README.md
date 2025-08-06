@@ -220,7 +220,8 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - Click "Generate HTML" which shows you the code.Preview is also available along with the generated HTML code.
 
 <br>
-- If you want  Tables,lists in your code,You can choose ****"Template for Basic HTML Structure"**** from ****"MyTemplates"**** .Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
+
+- If you want  Tables,lists in your code,You can choose  ****"Template for Basic HTML Structure"**** from ****"MyTemplates"**** .Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
 
   <br>
   <br>
