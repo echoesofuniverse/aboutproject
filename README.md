@@ -50,17 +50,6 @@ Follow these steps to make the most of MyWebsite:
   You can view different cards on the Dashboard.Each card displays information related to the Sector.
 <br>
 
-****Cyber Program Resources****
-   -Navigate to 2nd card and Click on  "Class & Subject" dropdown, we will get options "X - State - Computer Science","IX - State - Social",....
-   - After selecting class,subject:another dropdown gets displayed which shows "Select Chapter" ,Click on "X - Computer Science - Chapter -1 and Chapters get displayed.
-   - There are more buttons called "Honor Roll List" , "Syllabus Warriors List" .When we click that List of Students names get displayed and If we want to return back to the Homepage then click "HOME".
-
-![Homepage Screenshot](assets/screenshots/cpr.png)
-
-
-
-<br>
-
 ****CyberWorld Creative Works****
  - We can see a Title  Named "Wiki Enchiridion",When you click on "Select Category",list of categories will get displayed such as Musems,Water Bodies,Mountains,Birds etc.And Image gets displayed after choosing the option from the dropdown and Clicking on that image leds to Wiki page based on the selection of the category.
 ****MySchool Projects****
@@ -81,6 +70,20 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
   ![Homepage Screenshot](assets/screenshots/aic.png)
 <br>
+
+
+****Cyber Program Resources****
+   -Navigate to 2nd card and Click on  "Class & Subject" dropdown, we will get options "X - State - Computer Science","IX - State - Social",....
+   - After selecting class,subject:another dropdown gets displayed which shows "Select Chapter" ,Click on "X - Computer Science - Chapter -1 and Chapters get displayed.
+   - There are more buttons called "Honor Roll List" , "Syllabus Warriors List" .When we click that List of Students names get displayed and If we want to return back to the Homepage then click "HOME".
+
+![Homepage Screenshot](assets/screenshots/cpr.png)
+
+
+
+<br>
+
+
 ****MySchool Calendar & Banks****
 - We can see a calendar pointing to today's date
 - Select a Bank from the options "Homework Bank","Syallabus Bank","Attendance Bank" and "Hostel Bank".After you select a bank,you can select a year(2024-2025,2023-2024 and so on),Class dropdown will be displayed when you select year dropdown.Once you select an option from class dropdown,section dropdown will get displayed.Based on the selection of the section,data related to students will get dispalyed in the Popup. 
