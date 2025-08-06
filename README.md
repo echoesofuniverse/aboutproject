@@ -121,7 +121,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
   * If you don't have an account on our website,Please Register.
   * Please login into our website to use the Ecommerce features.
-  * You will view the Homepage of Ecommerce website.Currently we have integrated our ***Echoes Store*** with ***The Cuinary Nation.***
+  * You will view the Homepage of Ecommerce website.Currently we have integrated our ***Echoes Store*** with ***The Culinary Nation.***
     <br>
          ![Homepage Screenshot](assets/screenshots/Ehome.png)
     <br>
