@@ -166,13 +166,17 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 ****Echoes Vision****
 
--  Echoes Vision and View Blog 
+-  Echoes Vision and View Blog
+  
   <br>
+  
   ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
+  
   <br>
   
   **Echoes Vision**: Explore to know more about Vision Statement. <br>
-  **View Blogs**: Read our Blogs. <br>
+  **View Blogs**: Read our Blogs. <br> <br> <br> 
+  
   ****MyEvent**** - AnnualDay2025   <br>
   ****MySponserShip**** - Sponserships 
     <br>
@@ -196,11 +200,14 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 
 ****TEMPLATE****
+<br>
 
--   ![Homepage Screenshot](assets/screenshots/templatemenu.png) 
+  ![Homepage Screenshot](assets/screenshots/templatemenu.png) 
 
 <br> 
--   ![Homepage Screenshot](assets/screenshots/templateforgallery.png) 
+
+-   ![Homepage Screenshot](assets/screenshots/templateforgallery.png)
+  
 - This is the Template to create Gallery.
 - Instead of giving color codes in CSS for BACKGROUND COLOR,HEADING COLOR ,ITEM HEADING COLOR,DESCRIPTION COLOR, we can click on the lines and directly change the color,we can also create new gallery or use existing gallery with the help of "SELECT GALLERY" field,Incase if you click on "Create new Gallery" ,Enter "NEW GALLERY NAME".In ITEM DESCRIPTION field,paste the text and Upload the image with the help of "UPLOAD IMAGE" field.Click on GENERATE AND PREVIEW,HTML code is created and we can Preview the changes.
 - This Template saves a lot of time as we are not writing the code of CSS,HTML.We are just adjusting the colors with the help of this template and getting the code.
