@@ -119,37 +119,24 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
  *****ECHOES OF UNIVERSE ONLINE STORE :*****
 
-  * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
-  * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
-  * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
+  * If you don't have an account on our website,Please Register.
+  * Please login into our website to use the Ecommerce features.
+  * You will view the Homepage of Ecommerce website.Currently we have integrated our ***Echoes Store*** with ***The Cuinary Nation.***
     <br>
          ![Homepage Screenshot](assets/screenshots/Ehome.png)
-
-    
-<br>
+    <br>
   * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
     
- * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
+ * Once you click add to cart near an product in home page,it will redirect you to Cart WebPage.You can also remove items in your cart and  you can checkout by clicking Checkout Option.
        
  * Search functionality is also available in Home page of Echoes of Universe Online Store.
 
 <br>
+* If you’re interested in integrating our Echoes Store with your platform or services, please reach out to the Director of Echoes of Universe for further coordination.
 <br><br>
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ****HealthCare Universe****
 - Click on Medical Encyclopedia dice.
@@ -158,16 +145,33 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   ![Homepage Screenshot](assets/screenshots/Medical_Dice.png)
   <br>
 
-  
+  ****FILM UNIVERSE****
+- Click on the Dice to explore options related to the Film Industry.
+  <br>
+
+****SJHS Creative World****
+- The Octahedron has 8 faces, each representing a unique theme. Within each face, multiple options are available individually. This interactive card is dedicated to the SJSHS team, and showcases webpages created by the students.
+<br>
+
+
+
+**************TOPBAR**************:
+
+****MyUserGuide****:
+- FAQ , Submit Feedback
+- **FAQ**: Check out this Page if you have any questions regarding our website.
+- **Submit Feedback**: Please fill out the feedback form and click "Submit" to share your response.
+
+
+
 ****Echoes Vision****
-- In Topbar,there is a button named Echoes Vision click it,You can see list of options called "Echoes Vision and View Blog.
+-  "Echoes Vision and View Blog"
   <br>
     ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
 
   <br>
-  
-- Click on Echoes Vision in the dropdown,you can view the Vision statement.
-- Click on View Blog to know the latest updates of our website.
+  - **Echoes Vision**: Explore to know more about Vision Statement.
+  - **View Blogs**: Read our Blogs.
 
 
   ****MySchool & MyServices****
@@ -177,14 +181,24 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   ![Homepage Screenshot](assets/screenshots/MySchoolServices.png) 
   
   <br>
+  ****MyEvent**** - AnnualDay2025
+  ****MySponserShip**** - Sponserships 
+  ****MyEchoes**** - EchoesSite Map,MySchool Modal,C.A.R.V.E,C.H.I.R.P,W.A.S.T.E,CyberWorld Program,Echoes Rocketship,Kohinoor Tournament
+  ****MySchool**** - Annual Day Presentation, Sololearn Work By Students.
+  ****MyServices**** - Grand Digital Museum,Miniature Government
+  ****MyBanks**** - Chronicle Bank,Attendance Bank,Homework Bank,Faculty Bank,Alumini Bank,Syllabus Bank,Student Bank,Hostel Bank,Management Bank,Kohinoor Tournament,
+  ****MyGalleries**** - Exam Gallery,Sports Gallery,Rhymes Gallery,Family Gallery,Science Gallery,Invention Gallery.
+  ****MyGlobe**** - About India,Facts on India,India on Moon,Syllabus for CSE,Syllabus for State.
+  ****TEDDY BEAR IMAGE**** - Give the Teddy Bear a click to see what options pop up!
+  ****MyTemplates**** - Template for Basic HTML Structure,Template to create Galleries,Template to Generate code for multiple uploaded images with text,Command Template Generator.
+  
 
 
 ****TEMPLATE****
 
 -   ![Homepage Screenshot](assets/screenshots/templatemenu.png) 
 
-- We have added "MyTemplates" Menu in Topbar,Under MyTemplate, there are 3 choices "Template for Basic HTML Structure","Template to create Galleries","Template to generate code for Multiple Uploaded Images with Text".
-
+<br> 
 -   ![Homepage Screenshot](assets/screenshots/templateforgallery.png) 
 - This is the Template to create Gallery.
 - Instead of giving color codes in CSS for BACKGROUND COLOR,HEADING COLOR ,ITEM HEADING COLOR,DESCRIPTION COLOR, we can click on the lines and directly change the color,we can also create new gallery or use existing gallery with the help of "SELECT GALLERY" field,Incase if you click on "Create new Gallery" ,Enter "NEW GALLERY NAME".In ITEM DESCRIPTION field,paste the text and Upload the image with the help of "UPLOAD IMAGE" field.Click on GENERATE AND PREVIEW,HTML code is created and we can Preview the changes.
@@ -198,6 +212,9 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 
 - If you want to Tables,lists in your code,You can choose "Template for Basic HTML Structire" from "MyTemplates".Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
+  
+
+****ACADEMIC UNIVERSE****
 
 *****UPLOAD SYLLABUS IN THE SERVER JUST BY FILLING THE FORM(Can't specify the foldername here as this git readme file is public,Reachout to Echoes Team for clarity):*****
 
