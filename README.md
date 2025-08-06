@@ -181,16 +181,26 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   ![Homepage Screenshot](assets/screenshots/MySchoolServices.png) 
   
   <br>
-  ****MyEvent**** - AnnualDay2025
+  ****MyEvent**** - AnnualDay2025   
+  <br>
   ****MySponserShip**** - Sponserships 
+    <br>
   ****MyEchoes**** - EchoesSite Map,MySchool Modal,C.A.R.V.E,C.H.I.R.P,W.A.S.T.E,CyberWorld Program,Echoes Rocketship,Kohinoor Tournament
+    <br>
   ****MySchool**** - Annual Day Presentation, Sololearn Work By Students.
+    <br>
   ****MyServices**** - Grand Digital Museum,Miniature Government
-  ****MyBanks**** - Chronicle Bank,Attendance Bank,Homework Bank,Faculty Bank,Alumini Bank,Syllabus Bank,Student Bank,Hostel Bank,Management Bank,Kohinoor Tournament,
+    <br>
+  ****MyBanks**** - Chronicle Bank,Attendance Bank,Homework Bank,Faculty Bank,Alumini Bank,Syllabus Bank,Student Bank,Hostel Bank,Management Bank,Kohinoor Tournament
+    <br>
   ****MyGalleries**** - Exam Gallery,Sports Gallery,Rhymes Gallery,Family Gallery,Science Gallery,Invention Gallery.
+    <br>
   ****MyGlobe**** - About India,Facts on India,India on Moon,Syllabus for CSE,Syllabus for State.
+    <br>
   ****TEDDY BEAR IMAGE**** - Give the Teddy Bear a click to see what options pop up!
+    <br>
   ****MyTemplates**** - Template for Basic HTML Structure,Template to create Galleries,Template to Generate code for multiple uploaded images with text,Command Template Generator.
+    <br>
   
 
 
