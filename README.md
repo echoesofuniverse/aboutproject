@@ -166,21 +166,13 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 ****Echoes Vision****
 
--  Echoes Vision and View Blog
+-  Echoes Vision and View Blog 
   <br>
   ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
   <br>
   
   **Echoes Vision**: Explore to know more about Vision Statement. <br>
   **View Blogs**: Read our Blogs. <br>
-
-
-  ****MySchool & MyServices****
-- In topbar,there is a button named MySchool & MyServices,when you click,you can see 2 dropdowns,"Annual day Presentation" and "SOLOLEARN WORKS BY STUDENTS".Select SOLOLEARN WORKS BY STUDENTS to view pages created by SJHS students.Select Annual day Presentation to know more about Cyberworld Program.
-<br>
-![Homepage Screenshot](assets/screenshots/MySchoolServices.png)
-<br>
-  
   ****MyEvent**** - AnnualDay2025   <br>
   ****MySponserShip**** - Sponserships 
     <br>
