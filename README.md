@@ -165,8 +165,10 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 
 ****Echoes Vision****
+
 -  "Echoes Vision and View Blog"
   <br>
+  
     ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
 
   <br>
