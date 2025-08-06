@@ -193,6 +193,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   ****MyGlobe**** - About India,Facts on India,India on Moon,Syllabus for CSE,Syllabus for State.
     <br>
   ****TEDDY BEAR IMAGE**** - Give the Teddy Bear a click to see what options pop up!
+  - Click on the Teddy Bear image to access features like SignUp/Register,Login,Edit Profile,Upload Homework/Other Documents,List of Documents and other useful options.
     <br>
   ****MyTemplates**** - Template for Basic HTML Structure,Template to create Galleries,Template to Generate code for multiple uploaded images with text,Command Template Generator.
     <br>
@@ -212,15 +213,17 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - Instead of giving color codes in CSS for BACKGROUND COLOR,HEADING COLOR ,ITEM HEADING COLOR,DESCRIPTION COLOR, we can click on the lines and directly change the color,we can also create new gallery or use existing gallery with the help of "SELECT GALLERY" field,Incase if you click on "Create new Gallery" ,Enter "NEW GALLERY NAME".In ITEM DESCRIPTION field,paste the text and Upload the image with the help of "UPLOAD IMAGE" field.Click on GENERATE AND PREVIEW,HTML code is created and we can Preview the changes.
 - This Template saves a lot of time as we are not writing the code of CSS,HTML.We are just adjusting the colors with the help of this template and getting the code.
 - You can copy and Paste the code in your Project.
+  <br><br>
 
-- If you need Multiple Images in your HTML code,You can choose "Template to generate code for Multiple Uploaded Images with Text" from "MyTemplates".As this selection helps you a Web pages wich has fields such as "TITLE","UPLOAD IMAGE 1",DESCRIPTION 1","ADD ANOTHER IMAGE".After uploading one image,if you want to add more images ,you can click "ADD ANOTHER IMAGE",which shows "UPLOAD IMAGE N", "DESCRIPTION N".With this you can add "N number of Images" in your code.
+- If you need Multiple Images in your HTML code,You can choose ****"Template to generate code for Multiple Uploaded Images with Text"**** from ****"MyTemplates"**** .As this selection shows you a Web page wich has fields such as "TITLE","UPLOAD IMAGE 1",DESCRIPTION 1","ADD ANOTHER IMAGE".After uploading one image,if you want to add more images ,you can click "ADD ANOTHER IMAGE",which shows "UPLOAD IMAGE N", "DESCRIPTION N".With this you can add "N number of Images" in your code.
 
 - Click "Generate HTML" which shows you the code.Preview is also available along with the generated HTML code.
 
+<br>
+- If you want  Tables,lists in your code,You can choose ****"Template for Basic HTML Structure"**** from ****"MyTemplates"**** .Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
 
-
-- If you want to Tables,lists in your code,You can choose "Template for Basic HTML Structire" from "MyTemplates".Fill the respective fields and click on Generate HTML.HTML code and Preview will be displayed.Based on the text in the fields,HTML code and Preview are modified.
-  
+  <br>
+  <br>
 
 ****ACADEMIC UNIVERSE****
 
