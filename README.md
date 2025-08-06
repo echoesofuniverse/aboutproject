@@ -172,8 +172,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   <br>
 
    *Echoes Vision*: Explore to know more about Vision Statement.
-   
-    *View Blogs*: Read our Blogs.
+   *View Blogs*: Read our Blogs.
 
 
   ****MySchool & MyServices****
