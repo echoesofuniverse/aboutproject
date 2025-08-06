@@ -72,9 +72,12 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 
 
 ****Cyber Program Resources****
-   -Navigate to 2nd card and Click on  "Class & Subject" dropdown, we will get options "X - State - Computer Science","IX - State - Social",....
+   -Navigate to 2nd card and Click on  "SELECT YOUR DISCIPLINE" ,Options such as "High School","Jr.Intermediate College" will be displayed.
+   Eg: "HighSchool"-->"HighSchool Class & Subject" -->"X - State - Computer Science","IX - State - Social",....--->"Select Chapter"-->X-Computer Science-Chapter 1,X-Computer Science-Chapter 2,....
    - After selecting class,subject:another dropdown gets displayed which shows "Select Chapter" ,Click on "X - Computer Science - Chapter -1 and Chapters get displayed.
-   - There are more buttons called "Honor Roll List" , "Syllabus Warriors List" .When we click that List of Students names get displayed and If we want to return back to the Homepage then click "HOME".
+   - Please select your citation category from the following options:
+     SELECT CITIATIONS - "Grand Masters List" "Honor Roll List" , "Syllabus Warriors List" Once selected, a list of student names will be displayed based on your choice. To return at any time, simply click the "HOME" button.
+
 
 ![Homepage Screenshot](assets/screenshots/cpr.png)
 
@@ -109,6 +112,45 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - Click on Student Enrollment form.Student Enrollment Form consists of fields such as "First Name","Middle Name","Last Name","Father Name","Mother Name","Parent Occupation","Address","Phone number","Email","Roll Number","Class Name","Year".After filling all the fields click on Submit.The submitted data can be viewed in Student List.
 - Click on Staff Enrollment Form.Staff Enrollment Form consists of fields such as "Staff name","Staff id","Department","Job title".Click on submit after filling all the fields,The submitted data can be viewed in Staff List.
 - Click on Alumni Enrollment Form.Alumni Enrollment form consists of fields such as "First Name","Last Name","Email","Graduation Year","Decade".Click on submit after filling the fields.Click on Alumni List to view all the alumni's of our school.
+
+<br>
+<br>
+<br>
+
+ *****ECHOES OF UNIVERSE ONLINE STORE :*****
+
+  * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
+  * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
+  * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
+    <br>
+         ![Homepage Screenshot](assets/screenshots/Ehome.png)
+
+    
+<br>
+  * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
+    
+ * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
+       
+ * Search functionality is also available in Home page of Echoes of Universe Online Store.
+
+<br>
+<br><br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ****HealthCare Universe****
 - Click on Medical Encyclopedia dice.
 - We have 6 faces and Each face contains a image related to Healthcare and If someone clicks dice 6 times,6 different list of options will be displayed.Click the option in the list and information related to that option will be displayed. 
@@ -194,27 +236,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 
 
    
-   *****ECHOES OF UNIVERSE ONLINE STORE :*****
-
-  * If you don't have an account on our website,Please Register http://echoesofuniverse.com/djangoapplication/register/
-  * Please login into our website to use the Ecommerce features. http://echoesofuniverse.com/djangoapplication/login/
-  * After you have logged in,Click this url http://echoesofuniverse.com/djangoapplication/shopping/home/ , to view the items that are on sale.
-    <br>
-         ![Homepage Screenshot](assets/screenshots/Ehome.png)
-
-    
-<br>
-  * If you want to sell something on our Echoes of Universe Online Store,please click "Add Product" or click  http://echoesofuniverse.com/djangoapplication/shopping/add-product/ to add your product and fill the details such as "Name of the Product,Description,Price,Category,Image,Owner email,Phone number,owner name".After fllling all the details,click "Upload Product".These products will be shown in Home page of our Echoes Online Store.
-    
- * Once you click add to cart near an product in home page,it will redirect you to http://echoesofuniverse.com/djangoapplication/shopping/cart/ or  You can add items in cart,you can view your cart by clicking http://echoesofuniverse.com/djangoapplication/shopping/cart/,You can also remove items in your cart and  you can checkout by http://echoesofuniverse.com/djangoapplication/shopping/checkout/
-       
- * Search functionality is also available in Home page of Echoes of Universe Online Store.
-
-<br>
-<br><br>
-<br>
-<br>
-<br>
+  
 
 *****LOGIN TO OUR WEBSITE TO WORK WITH BELOW FEATURES:*****
 * After logging in you can see the home page of the application along with the topbar with options such as "Create Blog","Create Collection","Create Quiz","View Quiz","Create Announcement".
