@@ -266,9 +266,13 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 ****PDF PARSER****:
 * Click on "Browse" to select a file from your computer, then click "Upload" followed by "Parse PDF".
 * After parsing, you’ll see the extracted text, generated HTML code, and a rendered HTML preview. You can then download the HTML file.
+  
   <br>
+  
      ![Homepage Screenshot](assets/screenshots/pdf_parser.png)
+  
   <br> 
+  
 * Once the process is complete, the generated HTML code will automatically be saved in the nfolder directory for later use.
 * The "Customize in HTML Preview" option allows you to design and apply custom colors or CSS to the already uploaded text.
 After customization, copy and paste the generated code into your project folder as needed. 
