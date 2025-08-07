@@ -328,17 +328,16 @@ If you are not logged in, you will be redirected to the login screen.After succe
 
 ****CREATE ANNOUNCEMENT**** <br>
 
-You can access these features on Dashboard 
+You can access these features on Dashboard <br>
 
-  <br> 
-   ****Submit Homework By Date**** : <br>
-   Click on Submit Homework By Date button.<br>
+*****SUBMIT HOMEWORK BY DATE:*****  <br>
+Click on Submit Homework By Date button.<br>
 If you are not logged in, you will be redirected to the login screen.After successfully logging in, you will be taken to the next intended page or link. <br>
 Current Year and Current Month will show up.When we click on particular date,Homeworkform will popup with fields such as "Title","Classroom","Subject","File","Date".Click on Upload after submitting all mandatory fields.You will receive "Homework submitted" message on the screen
 <br>
-To view the Homeworks which are submitted, click HOMEWORK&CALENDAR LISTS on dashboard. <br> 
+To view the Homeworks which are submitted, click *****HOMEWORK&CALENDAR LISTS***** on dashboard. <br> 
 
-****CREATE BLOG**** :
+****CREATE BLOG**** : <br>
 * Click on "CREATE BLOG",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.<br>
 
 
