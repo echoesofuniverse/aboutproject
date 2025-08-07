@@ -282,7 +282,7 @@ NOTE:Use Capital Letters for Country,State,City or for anyfield for clarity.It h
 * Once the process is complete, the generated HTML code will automatically be saved in the nfolder directory for later use.
 * The "Customize in HTML Preview" option allows you to design and apply custom colors or CSS to the already uploaded text.
 After customization, copy and paste the generated code into your project folder as needed.
-
+<br>
 ****PUBLIC COLLECTION****: Explore collections such as English Collection,etc. shared by Community
 <br>
 ****ANNOUNCEMENT LISTS****: Stay updated with important notices and upcoming events.
@@ -292,11 +292,12 @@ Step 1 : You can access this feature with or without logging in.
 - To publish your content, provide a Title, Category, Content, and/or File.
 <br>
 Note:
-- You may either type your content directly into the text box (ideal for poems, short articles, etc.), upload a file (such as books, songs, or formatted documents), or do both.
-- Uploaded files will be available for others to download.
-- Once you're ready, click the Publish button to submit your entry.
+- You may either type your content directly into the text box (ideal for poems, short articles, etc.), upload a file (such as books, songs, or formatted documents), or do both.<br>
+-  Uploaded files will be available for others to download.<br>
+- Once you're ready, click the Publish button to submit your entry.<br>
 <br>
-****LIST OF STORIES PUBLISHED***: Browse through all the stories submitted and published by users.
+
+****LIST OF STORIES PUBLISHED****: Browse through all the stories submitted and published by users.
 <br>
    
   
