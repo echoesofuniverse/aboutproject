@@ -336,15 +336,11 @@ You can access these features on Dashboard
 If you are not logged in, you will be redirected to the login screen.After successfully logging in, you will be taken to the next intended page or link. <br>
 Current Year and Current Month will show up.When we click on particular date,Homeworkform will popup with fields such as "Title","Classroom","Subject","File","Date".Click on Upload after submitting all mandatory fields.You will receive "Homework submitted" message on the screen
 <br>
-* To view the Homeworks which are submitted, click *HOMEWORK&CALENDAR LISTS* on dashboard. <br> 
+To view the Homeworks which are submitted, click HOMEWORK&CALENDAR LISTS on dashboard. <br> 
 
 ****CREATE BLOG**** :
-* Click on "CREATE BLOG",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.
-<br>
+* Click on "CREATE BLOG",fields such as Title and Content will be shown.Fill the Title of your blog and Content you want to post,Click on Save Option.After clicking the save option,Click on "Back to Blog list" to see the list of blogs that users created till now.<br>
 
-   ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
-  
-  <br>
 
   ![Homepage Screenshot](assets/screenshots/createblog.png)
 
@@ -355,6 +351,12 @@ Current Year and Current Month will show up.When we click on particular date,Hom
 *****LOGIN TO OUR WEBSITE TO WORK WITH BELOW FEATURES:*****
 * After logging in you can see the home page of the application along with the topbar with options such as "Create Blog","Create Collection","Create Quiz","View Quiz","Create Announcement".
 
+<br>
+
+   ![Homepage Screenshot](assets/screenshots/loginfeatures.png)
+  
+  <br>
+  
 * Click on Create collection.
 
 *****PUBLIC COLLECTIONS AND MYCOLLECTIONS*****
