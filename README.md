@@ -153,6 +153,12 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
 - The Octahedron has 8 faces, each representing a unique theme. Within each face, multiple options are available individually. This interactive card is dedicated to the SJHS team, and showcases webpages created by the students.
 <br>
 
+****FOOD CHAIN UNIVERSE****
+- Navigate to Food Chain Universe.You will see images aligned in Traingle shape.
+- Click Image and options will be displayed.After selecting the option,respective page related to that option will be displayed.
+- These webpages are created by SJHS school,khammam,Telangana Students.
+- Also View SJHS creative World,You can view more pages created by students.
+
 
 
 *****TOPBAR****:
@@ -400,11 +406,6 @@ Intially this process can be used by Teachers as they can add new words everyday
  - Navigate to Academic Universe Card and Click Announcements List.List of Announcements which are created till now can be viewed.
 
 
-****FOOD CHAIN UNIVERSE****
-- Navigate to Food Chain Universe.You will see images aligned in Traingle shape.
-- Click Image and options will be displayed.After selecting the option,respective page related to that option will be displayed.
-- These webpages are created by SJHS school,khammam,Telangana Students.
-- Also View SJHS creative World,You can view more pages created by students.
 
 
 Note: If you want to see our Home page of our Echoes of Website in different language.You can select language from the dropdown which is placed on the upper rightmost corner.
