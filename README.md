@@ -299,6 +299,9 @@ Note: <br>
   You may either type your content directly into the text box (ideal for poems, short articles, etc.), upload a file (such as books, songs, or formatted documents), or do both.<br>
   Uploaded files will be available for others to download.<br>
   Once you're ready, click the Publish button to submit your entry.<br>
+  If you're not logged in, please make sure to fill in the Author Name field before publishing. <br>
+
+
 <br>
 
 ****LIST OF STORIES PUBLISHED****: Browse through all the stories submitted and published by users.
