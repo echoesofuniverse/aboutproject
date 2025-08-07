@@ -306,7 +306,26 @@ Note: <br>
 
 ****LIST OF STORIES PUBLISHED****: Browse through all the stories submitted and published by users.
 <br>
-   
+
+LOGIN IS REQUIRED TO ACCESS BELOW FEATURES: 
+
+****HOMEWORK&CALENDAR LISTS**** <br>
+
+****SUBMIT HOMEWORK BY DATE****<br>
+
+****CREATE BLOG**** <br>
+
+****CREATE COLLECTION**** <br>
+
+****CREATE QUIZ**** <br>
+
+****VIEW QUIZ**** <br>
+
+****PUBLISH**** <br>
+
+****CREATE ANNOUNCEMENT**** <br>
+
+
   
 
 *****LOGIN TO OUR WEBSITE TO WORK WITH BELOW FEATURES:*****
