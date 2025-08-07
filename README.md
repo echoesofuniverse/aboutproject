@@ -307,7 +307,8 @@ Note: <br>
 ****LIST OF STORIES PUBLISHED****: Browse through all the stories submitted and published by users.
 <br>
 
-LOGIN IS REQUIRED TO ACCESS BELOW FEATURES: 
+# 🔒 Login is Required to Access the Following Features:
+
 
 ****HOMEWORK&CALENDAR LISTS**** <br>
 
