@@ -176,7 +176,7 @@ Select Continent,Country and Select Type(Festival,Food) and click on displayed i
   
   <br>
   
-  ![Homepage Screenshot](assets/screenshots/echoes_vision.png) 
+  ![Homepage Screenshot](assets/screenshots/echoesvision.png) 
   
   <br>
   
