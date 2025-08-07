@@ -296,9 +296,9 @@ Step 1 : You can access this feature with or without logging in.
 - To publish your content, provide a Title, Category, Content, and/or File.
 <br>
 Note: <br>
-- You may either type your content directly into the text box (ideal for poems, short articles, etc.), upload a file (such as books, songs, or formatted documents), or do both.<br>
--  Uploaded files will be available for others to download.<br>
-- Once you're ready, click the Publish button to submit your entry.<br>
+  You may either type your content directly into the text box (ideal for poems, short articles, etc.), upload a file (such as books, songs, or formatted documents), or do both.<br>
+  Uploaded files will be available for others to download.<br>
+  Once you're ready, click the Publish button to submit your entry.<br>
 <br>
 
 ****LIST OF STORIES PUBLISHED****: Browse through all the stories submitted and published by users.
